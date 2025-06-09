@@ -91,11 +91,15 @@ Video Demonstration
 (Replace YOUR_VIDEO_ID with the actual ID of your YouTube demo video. You can also use a GIF if preferred.)
 
 Screenshots
-(Provide a few high-quality screenshots here to showcase different aspects of your application.)
+![image](https://github.com/user-attachments/assets/c64bbd08-8343-4085-8e49-f25b397473f8)
+
 
 1. Initial Query Input(Replace assets/screenshot-query.png with the actual path to your screenshot.)
+![image](https://github.com/user-attachments/assets/883ef9f8-d6be-4d68-a0f6-948746288c7a)
 
 2. Research Results Display(Replace assets/screenshot-results.png with the actual path to your screenshot.)
+
+![image](https://github.com/user-attachments/assets/05abd413-d4ff-4610-a6f3-789623d6a7d8)
 
 
 # Future Enhancements
@@ -112,5 +116,5 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 This project is licensed under the MIT License - see the LICENSE file for details.(Create a LICENSE file in your repository if you haven't already.)
 
 # Contact
-Rishav Raj-  - rishav042023@gmail.com
+Rishav Raj https://www.linkedin.com/in/rishav-raj-15b077249/  | rishav042023@gmail.com
 Project Link:[project_repo](https://github.com/Rishav-R03/AI-Research-Agent)
