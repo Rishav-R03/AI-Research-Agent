@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 # Contact
 Rishav Raj https://www.linkedin.com/in/rishav-raj-15b077249/  | rishav042023@gmail.com
-Project Link:[project_repo](https://github.com/Rishav-R03/AI-Research-Agent)
+Project Link: [project_repo](https://github.com/Rishav-R03/AI-Research-Agent)
