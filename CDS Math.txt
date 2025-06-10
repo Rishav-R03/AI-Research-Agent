@@ -1,0 +1,60 @@
+CDS Math 
+ 
+Number systems - 10 to 15 Easy
+Mensuration - 10 - 12 Moderate 
+Geometry - 10 - 12 Moderate 
+Trigo - 10 - 12 
+Stats - 8 - 10 
+Time, work and distance - 10 
+
+if time
+algebra 7 - 10 moderate
+SI CI - 3 5 moderate 
+
+
+
+It's tricky to definitively sort topics by "difficulty" as it's subjective and depends on an individual's prior mathematical background and aptitude. However, I can categorize the chapters into common mathematical branches and then offer a general perception of difficulty, keeping in mind that some topics within a category might be harder than others.
+
+Here's a categorization and a suggested difficulty sorting for the CDS Mathematics syllabus:
+
+I. Arithmetic
+
+Number System
+Sequence and Series
+HCF and LCM of Numbers
+Decimal Fractions
+Square Roots and Cube Roots
+Percentage
+Simple Interest
+Compound Interest
+Profit and Loss
+Ratio and Proportion
+II. Algebra
+
+Logarithm
+Algebraic Operations
+HCF and LCM of Polynomials
+Rational Expressions
+Linear Equations
+Quadratic Equations and Inequalities
+Set Theory
+III. Commercial/Applied Mathematics
+
+Time and Distance
+Time and Work
+IV. Geometry & Trigonometry
+
+Measurements of Angles and Trigonometric Ratios
+Height and Distance
+Lines and Angles
+
+
+
+_____________________
+Schedule -- Project building during fri - sun
+
+9 am to 12 pm (DSA and Interview prep like contests,CSE fund) Theory and Practice
+
+2 pm - 5 pm (CDS/ AFCAT)
+
+9 pm - 1 am (DSA/ Interview + CDS/AFCAT revision and practice)
